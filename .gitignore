@@ -1,0 +1,12 @@
+#*#
+*.db
+*.lrcat
+*.sqlite3
+*~
+__pycache__
+report*.txt
+report*.csv
+
+testmedia/.converted
+testmedia/*.pdf
+testmedia/*.avi
