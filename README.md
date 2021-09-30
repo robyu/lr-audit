@@ -76,7 +76,7 @@ Unregistered files:
 
 ```
 
-** Convert Usage **
+**Convert Usage**
 
 convert_media.py converts unsupported media into .jpg (images) or .mp4 (videos).
 
